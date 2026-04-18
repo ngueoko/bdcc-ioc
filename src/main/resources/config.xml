@@ -6,4 +6,9 @@
 <bean id="metier" class="org.ngueoko.metier.MetierImpl">
     <property name="dao" ref="d"></property>
 </bean>
+    <!-- Injection par constructeur
+<bean id="metier" class="org.ngueoko.metier.MetierImpl">
+    <constructor-arg ref="d"></constructor-arg>
+</bean>
+-->
 </beans>
