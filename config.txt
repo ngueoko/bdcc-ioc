@@ -1,0 +1,2 @@
+org.ngueoko.dao.DaoImpl
+org.ngueoko.metier.MetierImpl
