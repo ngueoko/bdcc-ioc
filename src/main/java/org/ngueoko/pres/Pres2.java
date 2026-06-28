@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Pres2 {
     public static void main(String[] args) throws Exception {
 
-        //ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException
+        //
         System.out.println(" Présentation 2 :");
         Scanner scanner= new Scanner(new File("config.txt"));
 
